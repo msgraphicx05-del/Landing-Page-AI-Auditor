@@ -1,0 +1,5 @@
+{
+  "name": "Landing Page Auditor AI",
+  "description": "Expert AI auditor for landing pages based on Google's 2026 Search Quality Evaluator Guidelines, Core Web Vitals, and E-E-A-T standards.",
+  "requestFramePermissions": []
+}
